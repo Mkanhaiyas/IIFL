@@ -51,7 +51,7 @@ function Navbar() {
           className={
             navBar[0]
               ? "absolute w-full h-[18.5rem] overflow-scroll translate-y-[0%] z-0 ease-in-out duration-1000 "
-              : "absolute w-full translate-y-[-100%] overflow-hidden z-0 ease-in-out duration-1000"
+              : "absolute w-full translate-y-[-150%] overflow-hidden z-0 ease-in-out duration-1000"
           }
         >
           <div className="flex items-center h-10 py-6 px-8 bg-cyan-100 border-b-[1px] hover:text-[#1e73be] border-white">
